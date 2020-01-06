@@ -1,0 +1,187 @@
+@media (max-width:600px){
+	#box #Navigation{
+	flex: :100%;
+	width: 500px;
+	height: 40px;			
+	}
+	#im{
+		width: 500px;
+	}
+	body #box{
+		flex: 100%;
+		width: 500px;
+		background: dimgrey;
+		margin: 0px;
+	}
+	#Navigation img{
+		display: none;
+	}
+	#Navigation #boxcontent #content1{
+		width: 500px;
+		height: 40px;
+	}
+	#we .z{
+		width: 80px;
+		height: 50px;
+	}
+	#we2 .z2{
+		width: 80px;
+		height: 50px;
+	}
+	#we3 .z3{
+		width: 80px;
+		height: 50px;
+	}
+	#we4 .z4{
+		width: 80px;
+		height: 50px;
+	}
+	#we5 .z5{
+		flex: 100%;
+		width: 80px;
+		height: 50px;
+	}
+	.er{
+		display: none;
+	}
+	.er2{
+		display: none;
+	}
+	.er3{
+		display: none;
+	}
+	.er4{
+		display: none;
+	}
+	.er5{
+		display: none;
+	}
+	#banner{
+		width: 500px;
+		height: 355px;
+	}
+	#bannertt1{
+		width: 500px;
+	}
+	#bannertt{
+		width: 500px;
+		top: 227px;
+	}
+	#bannertt2{
+		width: 130px;
+		top: 273px;
+		left: 186px;
+	}
+	#bannertt3{
+		width: 112px;
+		top: 304px;
+		left: 195px
+	}	
+	.Columns1{
+		width: 500px;
+	}
+	.Columns2{
+		width: 15px;
+		top: -17px;
+		left: 244px
+	}
+	.Columns1{
+		position: absolute;
+		top: 10px;
+		left:0px;
+	}
+	.h{
+		width: 500px;
+		margin: 15px 0px;
+		font-size: 12px
+	}
+	#content1 #we #content{
+		height: 20px;
+		text-align: center;	
+		padding-top: 3px;
+		color: darkgoldenrod;
+	}
+	#content1 #we2 #content2{
+		height: 20px;
+		text-align: center;	
+		padding-top: 3px;
+		color: darkgoldenrod;
+	}
+	#content1 #we3 #content3{
+		height: 20px;
+		text-align: center;	
+		padding-top: 3px;
+		color: darkgoldenrod;
+	}
+	#content1 #we4 #content4{
+		height: 20px;
+		text-align: center;	
+		padding-top: 3px;
+		color: darkgoldenrod;
+	}
+	#content1 #we5 #content5{
+		height: 20px;
+		text-align: center;	
+		padding-top: 3px;
+		color: darkgoldenrod;
+	}
+	#content1 #we .z{
+		top: 20px;
+	}
+	#content1 #we2 .z2{
+		top: 20px;
+	}
+	#content1 #we3 .z3{
+		top: 20px;
+	}
+	#content1 #we4 .z4{
+		top: 20px;
+	}
+	#content1 #we5 .z5{
+		top: 20px;
+	}
+	#Columns{
+		width: 500px;
+	}
+	.Columns5{
+		width: 205px;
+		position: absolute;
+		top: 75px;
+		left: 20px;
+	}
+	.Columns3{
+		width: 170px;
+		position: absolute;
+		top: -25px;
+		right: 20px
+	}
+	#Columns .Columns4{
+		width: 200px;
+		position: absolute;
+		top: 72px;
+		right: 68px;
+		animation: eh 3s linear infinite alternate;
+	}
+	@keyframes eh{
+			to{transform:translateY(20px);}
+			from{transform:translateY(10px);}
+	}
+	.Columns7{
+		width: 131px;
+		height: 196px;
+		position: absolute;
+		top: 41px;
+		right: 44px
+	}
+	.Columns8{
+		width: 131px;
+		height: 196px;
+		position: absolute;
+		top: 41px;
+		right: 44px
+	}
+	
+
+
+
+}
